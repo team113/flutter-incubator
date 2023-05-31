@@ -1,0 +1,9 @@
+{
+  "ignorePatterns": [{
+    "pattern": "https://github.com/team113/flutter-incubator/generate"
+  }, {
+    "pattern": "https://github.com/team113/flutter-incubator/subscription"
+  }, {
+    "pattern": "^https://developer.android.com"
+  }]
+}
