@@ -94,10 +94,8 @@ Inspired by [Rust Incubator].
 
 
 [Step 0]: 0_dart_basics
-[Step 1]: 1_dart_concepts
 [Step 1.1]: 1_dart_concepts/1_1_mixins
 [Step 1.3]: 1_dart_concepts/1_3_generics
-[Step 2]: 2_dart_idioms
 [Step 2.1]: 2_dart_idioms/2_1_type_safety
 [Step 2.2]: 2_dart_idioms/2_2_factory
 
