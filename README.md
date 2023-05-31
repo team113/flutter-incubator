@@ -78,6 +78,7 @@ Do not hesitate to ask your mentor/lead with questions, however you won't receiv
 - [ ] [0. Become familiar with Dart basics][Step 0] (1 day)
 - Dart concepts
     - [ ] [1.1. Mixins and extensions][Step 1.1] (1 day)
+    - [ ] [1.2. Async and isolates][Step 1.2] (1 day)
     - [ ] [1.3. Generics][Step 1.3] (1 day)
 - Dart idioms
     - [ ] [2.1. Rich types ensure correctness][Step 2.1] (1 day)
@@ -95,6 +96,7 @@ Inspired by [Rust Incubator].
 
 [Step 0]: 0_dart_basics
 [Step 1.1]: 1_dart_concepts/1_1_mixins
+[Step 1.2]: 1_dart_concepts/1_2_async
 [Step 1.3]: 1_dart_concepts/1_3_generics
 [Step 2.1]: 2_dart_idioms/2_1_type_safety
 [Step 2.2]: 2_dart_idioms/2_2_factory
