@@ -179,7 +179,7 @@ After completing everything above, you should be able to answer (and understand 
 
 
 [`analyzer`]: https://pub.dev/documentation/analyzer
-[`artemis`]: https://pub.dev/documentation/artemis
+[`artemis`]: https://pub.dev/packages/artemis
 [`build`]: https://pub.dev/documentation/build
 [`build_config`]: https://pub.dev/documentation/build_config
 [`build_runner`]: https://pub.dev/documentation/build_runner
