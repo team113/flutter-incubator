@@ -85,6 +85,8 @@ Do not hesitate to ask your mentor/lead with questions, however you won't receiv
     - [ ] [2.1. Rich types ensure correctness][Step 2.1] (1 day)
     - [ ] [2.2. Named and factory constructor][Step 2.2] (1 day)
     - 2.3. SOLID
+- Dart ecosystem
+    - [ ] [3.6. Code generation][Step 3.6] (1 day)
 
 
 
@@ -104,6 +106,7 @@ Inspired by [Rust Incubator].
 [Step 2]: 2_dart_idioms
 [Step 2.1]: 2_dart_idioms/2_1_type_safety
 [Step 2.2]: 2_dart_idioms/2_2_factory
+[Step 3.6]: 3_dart_ecosystem/3_6_codegen
 
 [Android Studio]: https://developer.android.com/studio
 [Awesome Flutter]: https://github.com/Solido/awesome-flutter
