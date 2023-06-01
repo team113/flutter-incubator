@@ -80,9 +80,11 @@ Do not hesitate to ask your mentor/lead with questions, however you won't receiv
     - [ ] [1.1. Mixins and extensions][Step 1.1] (1 day)
     - [ ] [1.2. Async and isolates][Step 1.2] (1 day)
     - [ ] [1.3. Generics][Step 1.3] (1 day)
-- Dart idioms
+    - 1.4. Conditional compilation
+- [ ] [2. Dart idioms][Step 2] (1 day)
     - [ ] [2.1. Rich types ensure correctness][Step 2.1] (1 day)
     - [ ] [2.2. Named and factory constructor][Step 2.2] (1 day)
+    - 2.3. SOLID
 
 
 
@@ -99,6 +101,7 @@ Inspired by [Rust Incubator].
 [Step 1.1]: 1_dart_concepts/1_1_mixins
 [Step 1.2]: 1_dart_concepts/1_2_async
 [Step 1.3]: 1_dart_concepts/1_3_generics
+[Step 2]: 2_dart_idioms
 [Step 2.1]: 2_dart_idioms/2_1_type_safety
 [Step 2.2]: 2_dart_idioms/2_2_factory
 
