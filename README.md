@@ -86,6 +86,7 @@ Do not hesitate to ask your mentor/lead with questions, however you won't receiv
     - [ ] [2.2. Named and factory constructor][Step 2.2] (1 day)
     - 2.3. SOLID
 - [ ] [3. Dart ecosystem][Step 3] (1 day)
+    - [ ] [3.1. Serialization and deserialization][Step 3.1] (1 day)
     - [ ] [3.6. Code generation][Step 3.6] (1 day)
 
 
@@ -108,6 +109,7 @@ Inspired by [Rust Incubator].
 [Step 2.1]: 2_dart_idioms/2_1_type_safety
 [Step 2.2]: 2_dart_idioms/2_2_factory
 [Step 3]: 3_dart_ecosystem
+[Step 3.1]: 3_dart_ecosystem/3_1_serialization
 [Step 3.6]: 3_dart_ecosystem/3_6_codegen
 
 [Android Studio]: https://developer.android.com/studio

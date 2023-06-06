@@ -80,7 +80,7 @@ class UserId {
 
 Also, [newtype idiom][21] **makes code more understandable for developers**, as domain knowledge is reflected in types, so is described and documented more explicitly.
 
-The downside of using [newtype idiom][21], however, is a necessity of writing **more boilerplate code**.
+The downside of using [newtype idiom][21], however, is a necessity of writing **more [boilerplate code][25]**.
 
 For better understanding [newtype idiom][21], read through the following articles:
 - [dart-lang/language#2132: The `newtype` idiom][21]
@@ -123,3 +123,4 @@ After completing everything above, you should be able to answer (and understand 
 [22]: https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate
 [23]: https://habr.com/ru/post/498042
 [24]: https://rust-unofficial.github.io/patterns/patterns/behavioural/newtype.html
+[25]: https://en.wikipedia.org/wiki/Boilerplate_code
